@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BasicMaths" />
-        <module name="PatternProgramming" />
         <module name="collection" />
+        <module name="Recursion" />
+        <module name="PatternProgramming" />
       </profile>
     </annotationProcessing>
   </component>
